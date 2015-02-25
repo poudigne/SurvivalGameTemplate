@@ -1,0 +1,13 @@
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Pierre-Luc\Documents\SurvivalGameTemplate\Temp\bin\Debug\Pathfinding.JsonFx.dll

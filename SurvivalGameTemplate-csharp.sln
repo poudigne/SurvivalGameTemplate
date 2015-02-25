@@ -5,6 +5,8 @@ Project("{1CAD50B1-30F5-8556-2327-8C145E704E18}") = "SurvivalGameTemplate", "Ass
 EndProject
 Project("{1CAD50B1-30F5-8556-2327-8C145E704E18}") = "SurvivalGameTemplate", "Assembly-CSharp-vs.csproj", "{8723B08F-A5FA-0327-8A9A-A13B98E44BE5}"
 EndProject
+Project("{1CAD50B1-30F5-8556-2327-8C145E704E18}") = "SurvivalGameTemplate", "Assembly-CSharp-Editor-vs.csproj", "{23166DF3-DAC3-C4F1-E198-412F2A4DD90B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{8723B08F-A5FA-0327-8A9A-A13B98E44BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8723B08F-A5FA-0327-8A9A-A13B98E44BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8723B08F-A5FA-0327-8A9A-A13B98E44BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23166DF3-DAC3-C4F1-E198-412F2A4DD90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23166DF3-DAC3-C4F1-E198-412F2A4DD90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23166DF3-DAC3-C4F1-E198-412F2A4DD90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23166DF3-DAC3-C4F1-E198-412F2A4DD90B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																								GlobalSection(MonoDevelopProperties) = preSolution
+																																													GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

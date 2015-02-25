@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 80f3f397007cfe4428a4a10aa245152b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AttackAnimationClip: {fileID: 7400000, guid: 7795f8448b0185542863d8b5d9c14a57,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
